@@ -43,3 +43,26 @@ select * from Book order by bookname desc;
 -- example 3-14
 select * from Book order by price desc, publisher asc;
 
+select * from R1 where (A = 'a1') or (A = 'a2');
+
+-- example 3-15 3-16
+select * from Orders;
+select sum(saleprice) 총판매액 from Orders;
+select sum(saleprice) 총매출 from Orders where custid=2;
+
+-- example 3-17
+select sum(saleprice) 총판매액,
+	ROUND(AVG(saleprice), 0) 평균액,
+    min(saleprice) 최소액,
+    max(saleprice) 최대액
+from Orders;
+
+-- example 3-18
+select count(*) from Orders;
+
+select count(phone) from Customer;
+
+
+select custid 고객번호, count(*) 총수량, sum(saleprice) 총판매액 from Orders group by custid;
+
+select custid 고객번호, count(*) 총수량 from Orders where saleprice >= 8000 group by custid having count(*) >=2;

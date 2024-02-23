@@ -51,6 +51,30 @@ git clone https://github.com/MrTwee/KUIOT-Teemo.git
         - insert_data.sql
         - create_user.sql
         - select1.sql
-    - 
+    - 3장 내용 추가
+        - 셀렉트 쓰는 방법
+    - 2장 데이터베이스 모델 진행
+        - 릴레이션 스키마
+        - 무결성 제약조건
+            - 도메인
+            - 키 
+                - 슈퍼키
+                - 후보키
+                - 기본키
+                - 대리키
+                - 대체키
+                - 외래키
+        - 관계대수 연산자         
+    - 3장 group by 165p 까지 진행
+    - 윈도우 DBMS 를 우분투에서 연결
+        - 윈도우 DBMS에 외부 IP 접근 가능한 USER 생성
+        - 윈도우 방화벽에 3306포트 열기
+        - 윈도우 DBMS에 임의의 데이터 넣고 우분투에서 확인
+    - 우분투 DBMS를 윈도우에서 연결
+        - 우분투 DBMS에 외부 IP 접근 가능한 USER 생성
+        - 우분투 방화벽에 전체 포트 열기
+        - 우분투 DBMS에 임의의 데이터를 넣고 윈도우에서 확인
+            - VERTUALBOX 프로그램에서는 WINDOWS로 가는 PING이 확인되지 않음
+            - VMWARE 프로그램에서는 WINDOWS로 가는 PING이 확인됨
 - MySQL폴더 기
 - SELECT문 문법 기본형과 상세형
