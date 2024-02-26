@@ -78,3 +78,35 @@ git clone https://github.com/MrTwee/KUIOT-Teemo.git
             - VMWARE 프로그램에서는 WINDOWS로 가는 PING이 확인됨
 - MySQL폴더 기
 - SELECT문 문법 기본형과 상세형
+
+...
+## 2024-02-26
+...
+
+- C언어 연산자
+    - 산술 연산
+        - 기본 산술 연산자 코드 작성
+            - arithmetic.c
+        - 남녀성비 구하는 코드 작성 
+            -genderRatio.c
+    - 증감 연산
+        - a++, ++a 증감연산자 코드 작성
+            - incrementer.c
+    - 치환 연산
+    - 비교 연산 
+        - 기본 비교 연산자 코드 작성
+            - compare.c
+        - 입력 받은 문자로 대문자 소문자 알파벳 확인하는 코드 작성
+            - alphabetic.c
+        - 입력 받은 숫자로 홀수 짝수 확인하는 코드 작성
+            - oddEven.c
+            - oddNumber.c
+        - 입력 받은 점수로 합격 불합격 확인하는 코드 작성
+            - passFail.c
+        - 입력 받은 숫자를 일정 숫자 범위 내에 있는지 확인하는 코드 작성
+            - zero2Nine.c
+    - 논리 연산 &&, ||, !
+        - 입력 받은 년도로 윤년, 평년 확인하는 코드 작성
+            -leapYear.c, ordinaryYear.c
+    - 형변환
+    - 비트연산자
