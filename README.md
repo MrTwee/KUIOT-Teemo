@@ -110,3 +110,24 @@ git clone https://github.com/MrTwee/KUIOT-Teemo.git
             -leapYear.c, ordinaryYear.c
     - 형변환
     - 비트연산자
+
+
+
+...
+## 2024-02-27
+...
+
+- 제어흐름 (control folw)
+
+- 선택 (selection)
+    - if
+    - if else
+    - else if
+    + switch case
+
+- 반복문 (loop)
+    - while
+    - for
+    + do while
+
+- 삼항연산자
