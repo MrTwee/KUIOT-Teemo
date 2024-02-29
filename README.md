@@ -131,3 +131,38 @@ git clone https://github.com/MrTwee/KUIOT-Teemo.git
     + do while
 
 - 삼항연산자
+
+...
+## 2024-02-28
+...
+
+
+...
+## 2024-02-29
+...
+
+- 빌드 과정
+    - make cmake for linux
+    - 전처리 어셈블리 바이너리 링크
+- make 실습
+    - 기본 문법
+    - 여러 개 명령어 등록
+    - 연속 실행
+    - 생략 가능 명령어
+    - 변수 사용
+- 3장
+    - DML
+        - select
+    - DDL
+        - create, alter, drop
+    - DCL
+        - insert, update, delete
+- 4장 내장 함수
+    - SQL 내장 함수
+        - 숫자 함수
+            - abs, ceil, floor, round, sign ...
+        - 문자열 함수
+            - concat, replace, substr, length ...
+        - 날짜 함수
+            - str_to_date, date_format, adddate, sysdate ...
+            - format 형식 %Y-%m-%d %H:%i:%s ... 
