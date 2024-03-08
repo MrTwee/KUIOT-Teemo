@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/teemo/KUIOT-Teemo/KUIOT-Teemo/build",
+  "command": "/usr/bin/gcc  -I/usr/include/mysql -g -o CMakeFiles/booklist.dir/booklist.c.o -c /home/teemo/KUIOT-Teemo/KUIOT-Teemo/python/booklist.c",
+  "file": "/home/teemo/KUIOT-Teemo/KUIOT-Teemo/python/booklist.c"
+}
+]
