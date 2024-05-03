@@ -1,0 +1,3 @@
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch02/build/CMakeFiles/helloworld.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch02/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch02/build/CMakeFiles/rebuild_cache.dir
