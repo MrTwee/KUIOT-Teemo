@@ -49,6 +49,17 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/TEST1.dir/DependInfo.cmake"
+  "CMakeFiles/drawPolys.dir/DependInfo.cmake"
+  "CMakeFiles/keyboard.dir/DependInfo.cmake"
+  "CMakeFiles/keyboard2.dir/DependInfo.cmake"
   "CMakeFiles/line.dir/DependInfo.cmake"
+  "CMakeFiles/lineTest.dir/DependInfo.cmake"
+  "CMakeFiles/maskSetTo.dir/DependInfo.cmake"
+  "CMakeFiles/mouse.dir/DependInfo.cmake"
+  "CMakeFiles/storage.dir/DependInfo.cmake"
+  "CMakeFiles/storageRead.dir/DependInfo.cmake"
+  "CMakeFiles/trackBar.dir/DependInfo.cmake"
+  "CMakeFiles/userFunc.dir/DependInfo.cmake"
   "CMakeFiles/video.dir/DependInfo.cmake"
   )

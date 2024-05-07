@@ -1,4 +1,15 @@
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch04/build/CMakeFiles/TEST1.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch04/build/CMakeFiles/drawPolys.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch04/build/CMakeFiles/keyboard.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch04/build/CMakeFiles/keyboard2.dir
 /home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch04/build/CMakeFiles/line.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch04/build/CMakeFiles/lineTest.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch04/build/CMakeFiles/maskSetTo.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch04/build/CMakeFiles/mouse.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch04/build/CMakeFiles/storage.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch04/build/CMakeFiles/storageRead.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch04/build/CMakeFiles/trackBar.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch04/build/CMakeFiles/userFunc.dir
 /home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch04/build/CMakeFiles/video.dir
 /home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch04/build/CMakeFiles/edit_cache.dir
 /home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch04/build/CMakeFiles/rebuild_cache.dir
