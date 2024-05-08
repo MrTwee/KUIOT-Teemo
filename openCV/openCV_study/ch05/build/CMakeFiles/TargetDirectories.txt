@@ -1,0 +1,7 @@
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch05/build/CMakeFiles/brightness.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch05/build/CMakeFiles/brightnessTrackBar.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch05/build/CMakeFiles/contrast.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch05/build/CMakeFiles/histogram.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch05/build/CMakeFiles/saturated.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch05/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch05/build/CMakeFiles/rebuild_cache.dir
