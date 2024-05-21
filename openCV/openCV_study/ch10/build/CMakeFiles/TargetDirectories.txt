@@ -1,0 +1,5 @@
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch10/build/CMakeFiles/color.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch10/build/CMakeFiles/colorinrange.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch10/build/CMakeFiles/splitMerge.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch10/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/KUIOT-Teemo/openCV/openCV_study/ch10/build/CMakeFiles/rebuild_cache.dir
