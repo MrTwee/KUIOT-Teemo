@@ -227,7 +227,12 @@ git clone https://github.com/MrTwee/KUIOT-Teemo.git
         - malloc/free
 
 ...
-## 2024-03-07c
+## 2024-05-27
 ...
 
-    dd
+- 정형 데이터
+    - 수형 데이터
+    - 범주형 데이터
+
+- 테이블 데이터
+    
