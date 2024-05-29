@@ -3,7 +3,7 @@ import configparser
 
 
 def main():
-    folder = "/home/aa/kuIotBigdataClass/pythonData/"
+    folder = "/Users/jinwoo/Desktop/KUIOT-Teemo/pythonData/data/"
     config = configparser.ConfigParser()
     parser = argparse.ArgumentParser()
     parser.add_argument("-a", "--a_value", dest="a", help="A integers", type=int, default= 10)
